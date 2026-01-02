@@ -1,0 +1,89 @@
+================================================================================
+REPORT ESECUTIVO: ANALISI RESILIENZA ECONOMICA ITALIA
+Confronto 2019 Q4 (Pre-Pandemia) vs 2025 Q3 (Post-Pandemia)
+================================================================================
+
+1. DATI NAZIONALI AGGREGATI
+--------------------------------------------------------------------------------
+Italia 2019 Q4:
+  - Addetti totali: 18,061,839
+  - Unità locali: 6,342,757
+  - Dimensione media: 2.85 addetti/sede
+
+Italia 2025 Q3:
+  - Addetti totali: 19,839,628
+  - Unità locali: 6,420,818
+  - Dimensione media: 3.09 addetti/sede
+
+Variazione 2019-2025:
+  - Addetti: +1,777,789 (+9.84%)
+  - Unità locali: +78,061 (+1.23%)
+  - Dimensione media: +0.24 (+8.51%)
+
+2. TOP 5 SETTORI IN CRESCITA
+--------------------------------------------------------------------------------
+1. 95: RIPARAZIONE DI COMPUTER E DI BENI PER USO PERSONALE E PER LA CASA
+   Variazione: +245,322 addetti (+393.0%)
+
+2. 43: LAVORI DI COSTRUZIONE SPECIALIZZATI
+   Variazione: +178,566 addetti (+18.5%)
+
+3. 47: COMMERCIO AL DETTAGLIO (ESCLUSO QUELLO DI AUTOVEICOLI E DI MOTOCICLI)
+   Variazione: +165,735 addetti (+8.2%)
+
+4. 56: ATTIVITÀ DEI SERVIZI DI RISTORAZIONE
+   Variazione: +160,177 addetti (+10.8%)
+
+5. 41: COSTRUZIONE DI EDIFICI
+   Variazione: +132,543 addetti (+28.4%)
+
+3. TOP 5 SETTORI IN DECRESCITA
+--------------------------------------------------------------------------------
+1. 45: COMMERCIO ALL'INGROSSO E AL DETTAGLIO E RIPARAZIONE DI AUTOVEICOLI E MOTOCICLI
+   Variazione: -408,974 addetti (-100.0%)
+
+2. 15: FABBRICAZIONE DI ARTICOLI IN PELLE E SIMILI
+   Variazione: -8,781 addetti (-5.7%)
+
+3. 13: INDUSTRIE TESSILI
+   Variazione: -7,208 addetti (-6.2%)
+
+4. 18: STAMPA E RIPRODUZIONE DI SUPPORTI REGISTRATI
+   Variazione: -6,402 addetti (-8.7%)
+
+5. 14: CONFEZIONE DI ARTICOLI DI ABBIGLIAMENTO; CONFEZIONE DI ARTICOLI IN PELLE E PELLICCIA
+   Variazione: -6,177 addetti (-3.0%)
+
+4. PERFORMANCE REGIONALE
+--------------------------------------------------------------------------------
+Top 5 regioni per crescita:
+1. CAMPANIA: +19.05%
+2. SICILIA: +18.21%
+3. LAZIO: +15.15%
+4. PUGLIA: +12.80%
+5. VALLE D'AOSTA: +11.62%
+
+Bottom 5 regioni per crescita:
+1. EMILIA ROMAGNA: +6.46%
+2. VENETO: +6.41%
+3. LIGURIA: +5.78%
+4. PIEMONTE: +5.13%
+5. MARCHE: +2.66%
+
+5. ANALISI PER MACRO-AREA
+--------------------------------------------------------------------------------
+Centro:
+  - Addetti 2025: 4,067,784
+  - Variazione: +10.41%
+  - Peso su Italia: 20.5%
+
+Nord:
+  - Addetti 2025: 10,697,041
+  - Variazione: +7.43%
+  - Peso su Italia: 53.9%
+
+Sud:
+  - Addetti 2025: 5,074,803
+  - Variazione: +14.80%
+  - Peso su Italia: 25.6%
+
